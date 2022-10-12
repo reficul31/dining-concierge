@@ -130,4 +130,5 @@ dmypy.json
 .pyre/
 
 # JSON Files used to store data
-**/*.json
+open-search-indexing/*.json
+yelp-scraper/*.json
