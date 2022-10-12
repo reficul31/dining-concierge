@@ -9,5 +9,9 @@ Demo              |  Demo
 
 ## Text Message
 ```
-Hello! Here are my indian restaurant suggestions for 8 people, for 2022-10-12 at 21:00: 1. aRoqa, located at 206 9th Ave New York, NY 10011, 2. deep indian kitchen - indikitch, located at 25 W 23rd St New York, NY 10010, 3. Saravanaa Bhavan, located at 413 Amsterdam Ave New York, NY 10024, Enjoy your meal!
+Hello! Here are my indian restaurant suggestions for 8 people, for 2022-10-12 at
+21:00: 1. aRoqa, located at 206 9th Ave New York, NY 10011,
+2. deep indian kitchen - indikitch, located at 25 W 23rd St New York, NY 10010,
+3. Saravanaa Bhavan, located at 413 Amsterdam Ave New York, NY 10024.
+Enjoy your meal!
 ```
